@@ -1,0 +1,6 @@
+missing header attribute
+misaligned div tags
+missing source url
+mismatched id tags for color buttons
+missing quotation marks
+incorrect source link for script
